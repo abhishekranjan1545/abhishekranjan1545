@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun factPassionate B.Tech CSE (AI & ML) student at KIIT University with a strong interest in artificial intelligence, machine learning, and software development. Skilled in Java, C++, OOPS, and DSA, with hands-on experience in building AI-based projects and solving logical problems. I am an enthusiastic learner focused on developing real-world AI solutions and continuously improving my technical skills.
+I am Abhishek Ranjan B.Tech CSE (AI & ML) student at KIIT University with a strong interest in artificial intelligence, machine learning, and software development. Skilled in Java, C++, OOPS, and DSA, with hands-on experience in building AI-based projects and solving logical problems. I am an enthusiastic learner focused on developing real-world AI solutions and continuously improving my technical skills.
 
 
 ## 🌐 Socials:
